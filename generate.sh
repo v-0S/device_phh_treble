@@ -86,7 +86,7 @@ $apps_script
 $rom_script
 
 PRODUCT_NAME := $target
-PRODUCT_DEVICE := v1_OS_${arch}_$part
+PRODUCT_DEVICE := phhgsi_${arch}_$part
 PRODUCT_BRAND := v1_OS
 PRODUCT_SYSTEM_BRAND := v1_OS
 PRODUCT_MODEL := v1_OS GSI $apps_name
